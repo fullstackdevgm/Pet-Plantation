@@ -1,0 +1,3 @@
+*.log
+/cgi-bin
+*.zip
